@@ -10,7 +10,9 @@ namespace test
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world!");
+            Console.WriteLine("Enter hello num: ");
+            int num = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Your num is " + num);
         }
     }
 }
