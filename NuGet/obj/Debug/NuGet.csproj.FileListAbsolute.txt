@@ -1,0 +1,11 @@
+D:\source\ITC_temp\NuGet\bin\Debug\NuGet.exe.config
+D:\source\ITC_temp\NuGet\bin\Debug\NuGet.exe
+D:\source\ITC_temp\NuGet\bin\Debug\NuGet.pdb
+D:\source\ITC_temp\NuGet\bin\Debug\Newtonsoft.Json.dll
+D:\source\ITC_temp\NuGet\bin\Debug\Newtonsoft.Json.xml
+D:\source\ITC_temp\NuGet\obj\Debug\NuGet.csproj.AssemblyReference.cache
+D:\source\ITC_temp\NuGet\obj\Debug\NuGet.csproj.SuggestedBindingRedirects.cache
+D:\source\ITC_temp\NuGet\obj\Debug\NuGet.csproj.CoreCompileInputs.cache
+D:\source\ITC_temp\NuGet\obj\Debug\NuGet.csproj.CopyComplete
+D:\source\ITC_temp\NuGet\obj\Debug\NuGet.exe
+D:\source\ITC_temp\NuGet\obj\Debug\NuGet.pdb

@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\NuGet",
+    "\\test"
   ],
-  "SelectedNode": "\\test.cs",
+  "SelectedNode": "\\NuGet\\NuGet.csproj",
   "PreviewInSolutionExplorer": false
 }
