@@ -1,0 +1,8 @@
+D:\source\ITC_temp\test\bin\Debug\test.exe.config
+D:\source\ITC_temp\test\bin\Debug\test.exe
+D:\source\ITC_temp\test\bin\Debug\test.pdb
+D:\source\ITC_temp\test\obj\Debug\test.csproj.AssemblyReference.cache
+D:\source\ITC_temp\test\obj\Debug\test.csproj.SuggestedBindingRedirects.cache
+D:\source\ITC_temp\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\source\ITC_temp\test\obj\Debug\test.exe
+D:\source\ITC_temp\test\obj\Debug\test.pdb
