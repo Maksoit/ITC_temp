@@ -9,7 +9,7 @@ namespace API.Models
         public string name { get; set; }
         [Required]
         public string surname{get; set;}
-        [Required]
+        
         public int age { get; set;}
         [Required]
         public string HS { get; set; }
