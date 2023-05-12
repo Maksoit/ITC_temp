@@ -12,7 +12,7 @@ namespace API.Models
         
         public int age { get; set;}
         [Required]
-        public string HS { get; set; }
+        public string HightSchool { get; set; }
         [Required]
         public string direction { get; set; }
     }

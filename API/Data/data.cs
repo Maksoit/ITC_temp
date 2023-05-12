@@ -7,7 +7,7 @@ namespace API.Data
     {
         public static List<Student> students = new List<Student>(new[]
         {
-            new Student() {Id = 1 ,name = "Max", surname = "Vorogushin", age = 18, direction = "Matobes", HS = "VSHKMS"},
+            new Student() {Id = 1 ,name = "Max", surname = "Vorogushin", age = 18, direction = "Matobes", HightSchool = "VSHKMS"},
         });
     }
 }

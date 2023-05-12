@@ -63,6 +63,22 @@ namespace API.Controllers
         [HttpPut("PutStudent")]
         public IActionResult PutBody([FromBody] Student student) => Put(student);
 
+        [HttpPatch]
+        public IActionResult Patch(Student student)
+        {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+            var storeProduct = API.Data.data_for.students.SingleOrDefault(p => p.Id == student.Id);
+            if (storeProduct == null) return NotFound();
+            if (student.name != null) storeProduct.name = student.name;
+            if (student.age != 0) storeProduct.age = student.age;
+            if (student.surname != null) storeProduct.surname = student.surname;
+            if (student.HightSchool != null) storeProduct.HightSchool = student.HightSchool;
+            if (student.direction != null) storeProduct.direction = student.direction;
+            return Ok(storeProduct);
+        }
     }
 }
 
